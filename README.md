@@ -68,23 +68,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bilal-hussain-ansari-253393272/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:bilal3june@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
